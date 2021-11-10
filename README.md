@@ -20,7 +20,8 @@ Changes to /boot/config.txt
  - hdmi_ignore_cec=1
  
  Installation:
-  - sudo apt install git inkscape 
+  - run "sudo apt install git inkscape"
   - clone this repository
+  - run "git submodule update --init --recursive"
   - run install.sh script from within cloned folder
   
